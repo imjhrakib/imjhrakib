@@ -15,13 +15,14 @@ Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS
 - 📫 How to reach me: jhrakib.dev@gmail.com 
 - ⚡ Fun fact: I enjoy solving coding problems late at night 😄
 
-  ## 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/imjhrakib)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/imjhrakib)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/imjhrakib)
-📊 GitHub Stats
 
+
+## 📊 GitHub Stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imjhrakib)  
 
