@@ -21,6 +21,7 @@ Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/imjhrakib)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/imjhrakib)
 
+📊 GitHub Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imjhrakib)  
 
 ![GitHub metrics](https://metrics.lecoq.io/imjhrakib)  
