@@ -5,7 +5,7 @@
 
 I am a Full-Stack Developer specializing in MERN stack and Next.js, building modern, scalable, and responsive web applications.
 
-Skills: REACT / Next.js / JS / TailwindCss / HTML / CSS / 
+Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS 
 
 - 🔭 I’m currently working on Full-stack web development projects using the MERN stack 
 - 🌱 I’m currently learning Next.js and DSA  
