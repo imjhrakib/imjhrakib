@@ -48,4 +48,3 @@ I am a Full-Stack Developer specializing in MERN stack and Next.js, building mod
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imjhrakib)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjhrakib&layout=compact)
