@@ -1,7 +1,7 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full-Stack Web Developer || MERN & Next.js](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, I'm JH Rakib
 #### Full-Stack Web Developer || MERN & Next.js
-![Full-Stack Web Developer || MERN & Next.js]
+
 
 I am a Full-Stack Developer specializing in MERN stack and Next.js, building modern, scalable, and responsive web applications.
 
