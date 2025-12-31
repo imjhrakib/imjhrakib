@@ -5,6 +5,12 @@
 
 I am a Full-Stack Developer specializing in MERN stack and Next.js, building modern, scalable, and responsive web applications.
 
+## 🔗 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/imjhrakib)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/imjhrakib)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/imjhrakib)
+
 Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS 
 
 - 🔭 I’m currently working on Full-stack web development projects using the MERN stack 
