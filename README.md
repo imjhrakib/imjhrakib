@@ -49,9 +49,3 @@ I am a Full-Stack Developer specializing in MERN stack and Next.js, building mod
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imjhrakib)
-
-![GitHub Metrics](https://metrics.lecoq.io/imjhrakib)
-
-
-
-
