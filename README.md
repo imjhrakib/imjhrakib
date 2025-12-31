@@ -5,8 +5,6 @@
 
 I am a Full-Stack Developer specializing in MERN stack and Next.js, building modern, scalable, and responsive web applications.
 
-Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS 
-
 - 🔭 I’m currently working on Full-stack web development projects using the MERN stack 
 - 🌱 I’m currently learning Next.js and DSA  
 - 👯 I’m looking to collaborate on Open-source full-stack projects 
@@ -14,6 +12,32 @@ Skills: React , Next.js , JavaScript , TailwindCss , HTML , CSS
 - 💬 Ask me about React, Next.js, Javascript 
 - 📫 How to reach me: jhrakib.dev@gmail.com 
 - ⚡ Fun fact: I enjoy solving coding problems late at night 😄
+
+## 🛠️ My Toolkit
+
+**Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+**Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Design:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
 
 ## 🔗 Connect With Me
 
