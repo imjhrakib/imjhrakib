@@ -1,7 +1,7 @@
 ![Aspiring Full-Stack Developer | MERN Stack | Open-Source Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQFQGrvG9mJ-fw/profile-displaybackgroundimage-shrink_350_1400/B56Zt0TjV.JYAY-/0/1767182842293?e=1769040000&v=beta&t=2Z0_l0RAA56IOiYDz74qJK67_NsMvoCNVDTGF_g5EmE)
 
 ### Hi there 👋, my name is Jaker Hossain Rakib
-#### Aspiring Full-Stack Developer | MERN Stack | Open-Source Enthusiast
+#### Full-Stack Developer | MERN Stack | Open-Source Enthusiast
 
 I am a Full-Stack Developer specializing in MERN stack and Next.js, building modern, scalable, and responsive web applications.
 
