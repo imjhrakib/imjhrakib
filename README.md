@@ -1,4 +1,4 @@
-![Aspiring Full-Stack Developer | MERN Stack | Open-Source Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQE_XfVSAVU71w/profile-displaybackgroundimage-shrink_350_1400/B56Zt3lpXPKEAY-/0/1767237917150?e=1769040000&v=beta&t=hjWptzLIit4UwcIdqZfnVB80tsGLLbyTBECQM05E9IU)
+![Aspiring Full-Stack Developer | MERN Stack | Open-Source Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQE_XfVSAVU71w/profile-displaybackgroundimage-shrink_350_1400/B56Zt3lpXPKEAY-/0/1767237917150?e=1773273600&v=beta&t=nre4y0dgJea4niFfYLQB7r_n0bVpOuA3cXx0hVmn5K4)
 
 ### Hi there 👋, my name is Jaker Hossain Rakib
 #### Full-Stack Developer || MERN & Next.js || Open-Source Contributor || CS student 
